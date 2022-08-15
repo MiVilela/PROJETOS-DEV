@@ -6,8 +6,8 @@ conhecimento assistindo video aulas, lendo PDFs e participando de imensões de f
 Alguns ainda estão em andamento...
 
 
-Contatos
+# Contatos
 
-LinkedIN - Michelle Vilela Gobbo
+LinkedIn - Michelle Vilela Gobbo
 
 Email - michelle.gobbo@fatec.sp.gov.br
